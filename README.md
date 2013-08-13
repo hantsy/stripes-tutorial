@@ -1,7 +1,7 @@
 stripes-tutorial-source
 =======================
 
-Sample codes of my old Stripes blog entries which had been written before.
+An aggregation of my blog entries about Stripes framework written in several years ago. 
 
 
 ##Introduction
