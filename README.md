@@ -15,7 +15,7 @@ The original version is only a copy of my blog entries hosted on [http://hantsy.
 
 There is a copy of PDF in the root of the repository.
 
-[https://github.com/hantsy/stripes-tutorial/stripestutorial.pdf](https://github.com/hantsy/stripes-tutorial/stripestutorial.pdf) 
+[https://github.com/hantsy/stripes-tutorial/blob/master/stripestutorial.pdf](https://github.com/hantsy/stripes-tutorial/blob/master/stripestutorial.pdf) 
 
 It is written in Chinese.
 
